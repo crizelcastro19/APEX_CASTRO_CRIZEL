@@ -1,0 +1,18 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "QA",
+      "email": "john.qa@test.com",
+      "age": "28",
+      "salary": "45000",
+      "department": "Automation"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Tester",
+      "email": "maria@test.com",
+      "age": "32",
+      "salary": "55000",
+      "department": "Manual QA"
+    }
+  ]

@@ -1,0 +1,30 @@
+[
+    {
+      "firstName": "Juan",
+      "lastName": "Dela Cruz",
+      "email": "juan@test.com",
+      "gender": "Male",
+      "mobile": "9123456789",
+      "dateOfBirth": "10 May 1990",
+      "subjects": ["Maths", "Physics"],
+      "hobbies": ["Sports", "Music"],
+      "picture": "photo.png",
+      "currentAddress": "Quezon City, Philippines",
+      "state": "NCR",
+      "city": "Delhi"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Reyes",
+      "email": "maria@test.com",
+      "gender": "Female",
+      "mobile": "9234567890",
+      "dateOfBirth": "25 Dec 1992",
+      "subjects": ["English"],
+      "hobbies": ["Reading"],
+      "picture": "photo.png",
+      "currentAddress": "Makati, Philippines",
+      "state": "Uttar Pradesh",
+      "city": "Lucknow"
+    }
+  ]
